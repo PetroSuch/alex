@@ -356,6 +356,35 @@ function pageTransitionOut() {
 
 }
 
+function sendEmail(){
+  $("#contactForm").on('submit', function(){
+  var formData = $('#contactForm').serialize();
+  console.log(formData)
+      $.ajax({
+        type: 'POST',
+        url: 'contact.php',
+        data: formData,
+        success: function(response) {
+            $("l").text(response.success);
+        }
+    });
+  })
+}
+
+function initWorkItems() {
+  const items = $('.work-tiles li');
+  items.each(function(){
+    const badge = $(this).find('.work-badge');
+    const design = $(this).hasClass('design');
+    const development = $(this).hasClass('development');
+    if(design){
+      badge.html('Design');
+    }else if(development){
+      badge.html('Development');
+    }
+  })
+}
+
 function initPageTransitions() {
 
   //let scroll;
@@ -521,6 +550,9 @@ function initScript() {
   initLazyLoad();
   initPlayVideoInview();
   initScrolltriggerAnimations();
+  initWorkItems();
+  sendEmail();
+
 }
 
 /**
@@ -938,6 +970,7 @@ function initVisualFilter() {
 function initCookieViews() {
   // Set cookie for columns/rows view
   // https://www.youtube.com/watch?v=rfwiyBoVwdQ&ab_channel=TimothyRicks
+  Cookies.set("view", "columns", { expires: 14 });
   if (Cookies.get("view") == "columns") {
     $('.grid-row .rows-btn').removeClass('active');
     $('.grid-row .columns-btn').addClass('active');
@@ -1074,7 +1107,7 @@ function initTimeZone() {
   const timeSpan = document.querySelector("#timeSpan");
 
   const optionsTime = {
-    timeZone: 'Europe/Amsterdam',
+    timeZone: 'Europe/Kiev',
     timeZoneName: 'short',
     // year: 'numeric',
     // month: 'numeric',

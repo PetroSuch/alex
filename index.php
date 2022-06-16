@@ -266,6 +266,7 @@
                         <li class="development interaction visible">
                            <div class="single-tile-wrap">
                               <a href="work/future-goals.php" class="row">
+                                 <div class="work-badge"></div>
                                  <div class="flex-col">
                                     <div class="tile-image">
                                        <div class="overlay overlay-color" style="background-color: #DCD0C2;"></div>
@@ -288,6 +289,7 @@
                         <li class="development interaction visible">
                            <div class="single-tile-wrap">
                               <a href="work/chainn.php" class="row">
+                                 <div class="work-badge"></div>
                                  <div class="flex-col">
                                     <div class="tile-image">
                                        <div class="overlay overlay-color" style="background-color: #E2D1D9;"></div>
@@ -310,6 +312,7 @@
                         <li class="development interaction visible">
                            <div class="single-tile-wrap">
                               <a href="work/atypikal.php" class="row">
+                                 <div class="work-badge"></div>
                                  <div class="flex-col">
                                     <div class="tile-image">
                                        <div class="overlay overlay-color" style="background-color: #B1A994;"></div>
@@ -332,6 +335,7 @@
                         <li class="development interaction visible">
                            <div class="single-tile-wrap">
                               <a href="work/micdrop-agency.php" class="row">
+                                 <div class="work-badge"></div>
                                  <div class="flex-col">
                                     <div class="tile-image">
                                        <div class="overlay overlay-color" style="background-color: #373737;"></div>
@@ -354,6 +358,7 @@
                         <li class="design interaction development visible">
                            <div class="single-tile-wrap">
                               <a href="work/tapsody.php" class="row">
+                                 <div class="work-badge"></div>
                                  <div class="flex-col">
                                     <div class="tile-image">
                                        <div class="overlay overlay-color" style="background-color: #C2C2C2;"></div>
@@ -376,6 +381,7 @@
                         <li class="design interaction development visible">
                            <div class="single-tile-wrap">
                               <a href="work/emble-studio.php" class="row">
+                                 <div class="work-badge"></div>
                                  <div class="flex-col">
                                     <div class="tile-image">
                                        <div class="overlay overlay-color" style="background-color: #E49C4A;"></div>
@@ -398,6 +404,7 @@
                         <li class="development interaction visible">
                            <div class="single-tile-wrap">
                               <a href="work/one-nil.php" class="row">
+                                 <div class="work-badge"></div>
                                  <div class="flex-col">
                                     <div class="tile-image">
                                        <div class="overlay overlay-color" style="background-color: var(--color-lightgray);"></div>
@@ -420,6 +427,7 @@
                         <li class="design development visible">
                            <div class="single-tile-wrap">
                               <a href="work/andy-hardy.php" class="row">
+                                 <div class="work-badge"></div>
                                  <div class="flex-col">
                                     <div class="tile-image">
                                        <div class="overlay overlay-color" style="background-color: #626D6E;"></div>
@@ -442,6 +450,7 @@
                         <li class="design development interaction visible">
                            <div class="single-tile-wrap">
                               <a href="work/sunlight.php" class="row">
+                                 <div class="work-badge"></div>
                                  <div class="flex-col">
                                     <div class="tile-image">
                                        <div class="overlay overlay-color" style="background-color: #C9C9C9;"></div>
@@ -465,7 +474,7 @@
                   </div>
                </section>
             </section>
-            <section class="section center-grid-btn center-grid-btn-archive" data-scroll-section>
+            <!-- <section class="section center-grid-btn center-grid-btn-archive" data-scroll-section>
                <div class="container">
                   <div class="grid-after-btn">
                      <div class="btn btn-normal btn-dark">
@@ -481,6 +490,62 @@
                      </div>
                   </div>
                </div>
+            </section> -->
+            <section class="section horizontal-items" data-scroll-section>
+               <div class="container">
+                  <div class="row row-1" data-scroll data-scroll-speed="-1" data-scroll-direction="horizontal">
+                     <div class="flex-col">
+                        <div class="horizontal-single-item">
+                           <div class="overlay lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="https://dennissnellenberg.com/assets/img/home-item-1.jpg"></div>
+                        </div>
+                     </div>
+                     <div class="flex-col">
+                        <div class="horizontal-single-item">
+                           <div class="overlay playpauze">
+                              <video class="overlay lazy" src="https://dennissnellenberg.com/assets/img/home-item-2.mp4" loop muted playsinline></video>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="flex-col">
+                        <div class="horizontal-single-item">
+                           <div class="overlay lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="https://dennissnellenberg.com/assets/img/home-item-3.jpg"></div>
+                        </div>
+                     </div>
+                     <div class="flex-col">
+                        <div class="horizontal-single-item">
+                           <div class="overlay playpauze">
+                              <video class="overlay lazy" src="https://dennissnellenberg.com/assets/img/home-item-4.mp4" loop muted playsinline></video>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="row row-2" data-scroll data-scroll-speed="1" data-scroll-direction="horizontal">
+                     <div class="flex-col">
+                        <div class="horizontal-single-item">
+                           <div class="overlay playpauze">
+                              <video class="overlay lazy" src="https://dennissnellenberg.com/assets/img/home-item-5.mp4" loop muted playsinline></video>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="flex-col">
+                        <div class="horizontal-single-item">
+                           <div class="overlay lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="https://dennissnellenberg.com/assets/img/home-item-6.jpg"></div>
+                        </div>
+                     </div>
+                     <div class="flex-col">
+                        <div class="horizontal-single-item">
+                           <div class="overlay playpauze">
+                              <video class="overlay lazy" src="https://dennissnellenberg.com/assets/img/home-item-7.mp4" loop muted playsinline></video>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="flex-col">
+                        <div class="horizontal-single-item">
+                           <div class="overlay lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="https://dennissnellenberg.com/assets/img/home-item-8.jpg"></div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
             </section>
             <div class="footer-rounded-div" data-scroll-section>
                <div class="rounded-div-wrap">
@@ -490,12 +555,6 @@
             <?php include('includes/footer.php');?>
          </div>
       </main>
-      <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"></script> 
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/ScrollTrigger.min.js"></script>
-      <script src="https://unpkg.com/@barba/core"></script>
-      <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.6.1/dist/lazyload.min.js"></script>
-      <script src="https://dennissnellenberg.com/assets/js/locomotive-scroll.min.js"></script>        <script defer src="https://dennissnellenberg.com/assets/js/index-new.js"></script>    
+   
    </body>
 </html>

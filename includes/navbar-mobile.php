@@ -27,7 +27,7 @@
                 $url = $_SERVER['PHP_SELF'];
                 $isHome = strpos($url,'index') > 0 ? 'active': '';
                 $isWork = strpos($url,'work') > 0 ? 'active': '';
-                $isAbout = strpos($url,'about')  > 0 ? 'active': '';
+                // $isAbout = strpos($url,'about')  > 0 ? 'active': '';
                 $isContact = strpos($url,'contact')  > 0 ? 'active': '';
             ?>
             <ul class="links-wrap">
@@ -45,13 +45,13 @@
                 </span>
                 </a>
                 </li> -->
-                <li class="btn btn-link <?=$isAbout?>">
+                <!-- <li class="btn btn-link <?=$isAbout?>">
                 <a href="about.php" class="btn-click magnetic" data-strength="24" data-strength-text="12">
                 <span class="btn-text">
                 <span class="btn-text-inner">About</span>
                 </span>
                 </a>
-                </li>
+                </li> -->
                 <li class="btn btn-link <?=$isContact?>">
                 <a href="contact.php" class="btn-click magnetic" data-strength="24" data-strength-text="12">
                 <span class="btn-text">

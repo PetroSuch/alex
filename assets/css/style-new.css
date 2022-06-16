@@ -1089,6 +1089,17 @@ main.touch .main-wrap {
    opacity: .33;
 }
 
+.work-badge{
+   position: absolute;
+   top: 0px;
+   right: 0px;
+   padding: 5px 10px;
+   z-index: 100000;
+   text-align: center;
+   color: var(--color-white);
+   background-color: var(--color-blue-dark);
+}
+
 /* ------------------------- Work Grid - Large -------------------------------------------------- */
 
 .large-work-grid {

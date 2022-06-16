@@ -3,11 +3,11 @@
     <div class="flex-col">
         <div class="credits">
                 <h5>Versison</h5>
-                <p>2022 © Edition</p>
+                <p><?=date('Y');?> © Edition</p>
         </div>
         <div class="time">
                 <h5>Local time</h5>
-                <p><span id="timeSpan">09:41 PM CET</span></p>
+                <p><span id="timeSpan">PM CET</span></p>
         </div>
     </div>
     <div class="flex-col">
@@ -55,6 +55,5 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/ScrollTrigger.min.js"></script>
 <script src="https://unpkg.com/@barba/core"></script>
 <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.6.1/dist/lazyload.min.js"></script>
-
-<script src="../assets/js/locomotive-scroll.min.js"></script>        
-<script defer src="../assets/js/index-new.js"></script>  
+<script src="./assets/js/locomotive-scroll.min.js"></script>        
+<script defer src="./assets/js/index-new.js"></script>  

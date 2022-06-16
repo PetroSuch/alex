@@ -11,11 +11,11 @@
     <meta property="og:type" content="website" />
     <meta property="og:image" content="https://dennissnellenberg.com/media/site/89d468b455-1646837228/meta-image-dennis-snellenberg-860x540-crop-q72.jpg">
     <link rel="canonical" href="https://dennissnellenberg.com">
-    <link href="https://dennissnellenberg.com/assets/css/normalize.css" rel="stylesheet">
-    <link href="https://dennissnellenberg.com/assets/css/locomotive-scroll.css" rel="stylesheet">
-    <link href="https://dennissnellenberg.com/assets/css/styleguide.css" rel="stylesheet">
-    <link href="https://dennissnellenberg.com/assets/css/components.css" rel="stylesheet">
-    <link href="https://dennissnellenberg.com/assets/css/style-new.css" rel="stylesheet">
+    <link href="./assets/css/normalize.css" rel="stylesheet">
+    <link href="./assets/css/locomotive-scroll.css" rel="stylesheet">
+    <link href="./assets/css/styleguide.css" rel="stylesheet">
+    <link href="./assets/css/components.css" rel="stylesheet">
+    <link href="./assets/css/style-new.css" rel="stylesheet">
     <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

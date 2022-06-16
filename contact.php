@@ -1,3 +1,15 @@
+<?php
+if(isset($_POST['message'])){
+    $to      = 'queries@mydomain.com';
+    $subject = $_POST['company']; 
+    $message = $_POST['message']; 
+    $headers = "From: ".$_POST['name']." <".$_POST['email'].">\r\n"; $headers = "Reply-To: ".$_POST['email']."\r\n"; 
+    $headers = "Content-type: text/html; charset=iso-8859-1\r\n";
+    'X-Mailer: PHP/' . phpversion();
+    mail($to, $subject, $message, $headers);
+ }
+?>
+
 <!DOCTYPE html><!--  This site was created by Dennis Snellenberg (Code by Dennis)  -->
 <html lang="en">
    <?php include('includes/metadata.php');?>
@@ -42,11 +54,11 @@
                   </div>
                   <div class="row once-in">
                      <div class="flex-col">
-                        <form class="form" method="post" action="https://dennissnellenberg.com/contact" enctype="multipart/form-data" novalidate>
-                           <div class="website-field">
+                        <form id="contactForm" class="form" method="POST" action="">
+                           <!-- <div class="website-field">
                               <label class="label" for="tel">Phone Number</label>
                               <input class="field" type="text" id="form-tel" name="tel" tabindex="-1">
-                           </div>
+                           </div> -->
                            <div class="form-col">
                               <h5>01</h5>
                               <label class="label" for="name">What's your name?</label>
