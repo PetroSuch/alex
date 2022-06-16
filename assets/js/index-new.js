@@ -357,18 +357,18 @@ function pageTransitionOut() {
 }
 
 function sendEmail(){
-  $("#contactForm").on('submit', function(){
-  var formData = $('#contactForm').serialize();
-  console.log(formData)
-      $.ajax({
-        type: 'POST',
-        url: 'contact.php',
-        data: formData,
-        success: function(response) {
-            $("l").text(response.success);
-        }
-    });
-  })
+  // $("#contactForm").on('submit', function(){
+  // var formData = $('#contactForm').serialize();
+  // console.log(formData)
+  //     $.ajax({
+  //       type: 'POST',
+  //       url: 'contact.php',
+  //       data: formData,
+  //       success: function(response) {
+  //           $("l").text(response.success);
+  //       }
+  //   });
+  // })
 }
 
 function initWorkItems() {

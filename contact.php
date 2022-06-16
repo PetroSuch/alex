@@ -1,12 +1,14 @@
 <?php
 if(isset($_POST['message'])){
-    $to      = 'queries@mydomain.com';
+    $to      = 'biz@alextyshchenko.com';
     $subject = $_POST['company']; 
-    $message = $_POST['message']; 
+    $message = "<b>Name:</b>".$_POST['name']."<br><b>Message:</b>:".$_POST['message']."<br><b>Company:</b>".$_POST['company']."<br><b>Service:</b>".$_POST['service']."<br><b>Email:</b>".$_POST['email']; 
+ 
     $headers = "From: ".$_POST['name']." <".$_POST['email'].">\r\n"; $headers = "Reply-To: ".$_POST['email']."\r\n"; 
     $headers = "Content-type: text/html; charset=iso-8859-1\r\n";
-    'X-Mailer: PHP/' . phpversion();
-    mail($to, $subject, $message, $headers);
+    'X-Mailer: PHP/';
+    $send_email = mail($to,$subject,$message,$headers);
+    echo($send_email);
  }
 ?>
 
@@ -37,7 +39,6 @@ if(isset($_POST['message'])){
                      <div class="flex-col">
                         <div class="profile-picture"></div>
                         <div class="arrow">
-                           <?xml version="1.0" encoding="UTF-8"?>
                            <svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                               <title>arrow-up-right</title>
                               <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -71,12 +72,12 @@ if(isset($_POST['message'])){
                            </div>
                            <div class="form-col">
                               <h5>03</h5>
-                              <label class="label" for="email">What's the name of your organization?</label>
+                              <label class="label" for="company">What's the name of your organization?</label>
                               <input class="field" type="text" id="form-company" name="company" value="" required placeholder="John & Doe ®">
                            </div>
                            <div class="form-col">
                               <h5>04</h5>
-                              <label class="label" for="email">What services are you looking for?</label>
+                              <label class="label" for="service">What services are you looking for?</label>
                               <input class="field" type="text" id="form-service" name="service" value="" required placeholder="Web Design, Web Development ...">
                            </div>
                            <div class="form-col">

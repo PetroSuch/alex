@@ -4,7 +4,6 @@
             <div class="row">
             <div class="flex-col">
                 <div class="arrow">
-                    <?xml version="1.0" encoding="UTF-8"?>
                     <svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <title>arrow-up-right</title>
                         <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
