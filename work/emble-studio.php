@@ -1,4 +1,4 @@
-<!DOCTYPE html><!--  This site was created by Dennis Snellenberg (Code by Dennis)  -->
+<!DOCTYPE html> 
 <html lang="en">
    <?php include('../includes/metadata.php');?>
 
@@ -33,28 +33,22 @@
                         <div class="stripe"></div>
                         <ul class="links-wrap">
                             <li class="btn btn-link">
-                                <a href="https://dennissnellenberg.com" class="btn-click magnetic" data-strength="24" data-strength-text="12">
+                                <a href="index.php" class="btn-click magnetic" data-strength="24" data-strength-text="12">
                                 <span class="btn-text">
                                     <span class="btn-text-inner">Home</span>
                                 </span>
                                 </a>
                             </li>
                             <li class="btn btn-link active">
-                                <a href="https://dennissnellenberg.com/work" class="btn-click magnetic" data-strength="24" data-strength-text="12">
+                                <a href="work.php" class="btn-click magnetic" data-strength="24" data-strength-text="12">
                                 <span class="btn-text">
                                     <span class="btn-text-inner">Work</span>
                                 </span>
                                 </a>
                             </li>
+                              
                             <li class="btn btn-link">
-                                <a href="https://dennissnellenberg.com/about" class="btn-click magnetic" data-strength="24" data-strength-text="12">
-                                <span class="btn-text">
-                                    <span class="btn-text-inner">About</span>
-                                </span>
-                                </a>
-                            </li>
-                            <li class="btn btn-link">
-                                <a href="https://dennissnellenberg.com/contact" class="btn-click magnetic" data-strength="24" data-strength-text="12">
+                                <a href="contact.php" class="btn-click magnetic" data-strength="24" data-strength-text="12">
                                 <span class="btn-text">
                                     <span class="btn-text-inner">Contact</span>
                                 </span>
@@ -68,28 +62,28 @@
                             <h5>Socials</h5>
                             <ul>
                                 <li class="btn btn-link btn-link-external">
-                                    <a href="https://www.awwwards.com/dennissnellenberg/" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                                    <a href="https://www.awwwards.com/..//" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
                                         <span class="btn-text">
                                             <span class="btn-text-inner">Awwwards</span>
                                         </span>
                                     </a>
                                 </li>
                                 <li class="btn btn-link btn-link-external">
-                                    <a href="https://www.instagram.com/codebydennis/" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                                    <a href="  " target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
                                         <span class="btn-text">
                                             <span class="btn-text-inner">Instagram</span>
                                         </span>
                                     </a>
                                 </li>
                                 <li class="btn btn-link btn-link-external">
-                                    <a href="https://dribbble.com/dennissnellenberg" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                                    <a href="https://dribbble.com/../" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
                                         <span class="btn-text">
                                             <span class="btn-text-inner">Dribbble</span>
                                         </span>
                                     </a>
                                 </li>
                                 <li class="btn btn-link btn-link-external">
-                                    <a href="https://www.linkedin.com/in/dennissnellenberg/" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                                    <a href="https://www.linkedin.com/in/..//" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
                                         <span class="btn-text">
                                             <span class="btn-text-inner">LinkedIn</span>
                                         </span>
@@ -105,30 +99,23 @@
    <div class="nav-bar">
     <div class="credits-top">
         <div class="btn btn-link btn-left-top">
-            <a href="https://dennissnellenberg.com" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+            <a href="index.php" class="btn-click magnetic" data-strength="20" data-strength-text="10">
             <span class="btn-text">
-                <div class="credit"><span>©</span></div><div class="cbd"><span class="code-by">Code by </span><span class="dennis"><span class="dennis-span">Dennis</span> <span class="snellenberg">Snellenberg</span></span></span></div>
-            </span>
+             </span>
             </a>
         </div>
     </div>
     <ul class="links-wrap">
         <li class="btn btn-link active">
-            <a href="https://dennissnellenberg.com/work" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+            <a href="work.php" class="btn-click magnetic" data-strength="20" data-strength-text="10">
             <span class="btn-text">
                 <span class="btn-text-inner">Work</span>
             </span>
             </a>
         </li>
+       
         <li class="btn btn-link">
-            <a href="https://dennissnellenberg.com/about" class="btn-click magnetic" data-strength="20" data-strength-text="10">
-            <span class="btn-text">
-                <span class="btn-text-inner">About</span>
-            </span>
-            </a>
-        </li>
-        <li class="btn btn-link">
-            <a href="https://dennissnellenberg.com/contact" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+            <a href="contact.php" class="btn-click magnetic" data-strength="20" data-strength-text="10">
             <span class="btn-text">
                 <span class="btn-text-inner">Contact</span>
             </span>
@@ -195,7 +182,7 @@
                </div>
             </div>
             <div class="single-image">
-               <img class="overlay lazy" data-scroll data-scroll-speed="-1" src="https://dennissnellenberg.com/media/pages/work/emble-studio/d2bc214e8a-1646837257/karuna-emily-14-1500-540x.jpg" data-src="https://dennissnellenberg.com/media/pages/work/emble-studio/d2bc214e8a-1646837257/karuna-emily-14-1500.jpg" />               <img class="overlay overlay-image-top lazy" data-src="https://dennissnellenberg.com/media/pages/work/emble-studio/1e41b76d7f-1646837262/emble-case-header-overlay.svg" />            </div>
+               <img class="overlay lazy" data-scroll data-scroll-speed="-1" src="../media/pages/work/emble-studio/d2bc214e8a-1646837257/karuna-emily-14-1500-540x.jpg" data-src="../media/pages/work/emble-studio/d2bc214e8a-1646837257/karuna-emily-14-1500.jpg" />               <img class="overlay overlay-image-top lazy" data-src="../media/pages/work/emble-studio/1e41b76d7f-1646837262/emble-case-header-overlay.svg" />            </div>
          </div>
       </div>
    </div>
@@ -208,11 +195,11 @@
             <div class="device">
                <div class="single-image">
                      
-                  <div class="overlay overlay-image playpauze"><video class="overlay" src="https://dennissnellenberg.com/media/pages/work/emble-studio/488b9aa68f-1646837259/emble-screen-load.mp4" loop muted playsinline></video></div>                                     
+                  <div class="overlay overlay-image playpauze"><video class="overlay" src="../media/pages/work/emble-studio/488b9aa68f-1646837259/emble-screen-load.mp4" loop muted playsinline></video></div>                                     
                    
                </div>
                   
-               <div class="overlay-device-image"><div class="overlay overlay-device" style="background: url('https://dennissnellenberg.com/assets/img/device-mbp-16-lower.png') center center no-repeat; background-size: cover;"></div></div>
+               <div class="overlay-device-image"><div class="overlay overlay-device" style="background: url('../assets/img/device-mbp-16-lower.png') center center no-repeat; background-size: cover;"></div></div>
                            </div>
          </div>
       </div>
@@ -222,7 +209,7 @@
       <div class="flex-col">
          <div class="single-image">
                
-            <img class="overlay overlay-image lazy"  data-scroll data-scroll-speed="-3" src="https://dennissnellenberg.com/media/pages/work/emble-studio/bea032c58a-1646837261/scott-x-dean-lucas-by-riley-matthews-24-mini-540x.jpg" data-src="https://dennissnellenberg.com/media/pages/work/emble-studio/bea032c58a-1646837261/scott-x-dean-lucas-by-riley-matthews-24-mini.jpg" width="2200" height="1467" />   
+            <img class="overlay overlay-image lazy"  data-scroll data-scroll-speed="-3" src="../media/pages/work/emble-studio/bea032c58a-1646837261/scott-x-dean-lucas-by-riley-matthews-24-mini-540x.jpg" data-src="../media/pages/work/emble-studio/bea032c58a-1646837261/scott-x-dean-lucas-by-riley-matthews-24-mini.jpg" width="2200" height="1467" />   
                         <div class="overlay dark-overlay" style="opacity: 0.1;"></div>             
                         <div class="overlay text-overlay theme-dark">
                <div class="container">
@@ -239,7 +226,7 @@
             <div class="device">
                <div class="single-image">
                      
-                  <div class="overlay overlay-image playpauze"><video class="overlay" src="https://dennissnellenberg.com/media/pages/work/emble-studio/9ab36270ea-1646837262/emble-screen-case.mp4" loop muted playsinline></video></div>                                     
+                  <div class="overlay overlay-image playpauze"><video class="overlay" src="../media/pages/work/emble-studio/9ab36270ea-1646837262/emble-screen-case.mp4" loop muted playsinline></video></div>                                     
                    
                </div>
                            </div>
@@ -253,7 +240,7 @@
             <div class="device">
                <div class="single-image">
                      
-                  <div class="overlay overlay-image playpauze"><video class="overlay" src="https://dennissnellenberg.com/media/pages/work/emble-studio/bf23992150-1646837264/emble-screen-graphic.mp4" loop muted playsinline></video></div>                                     
+                  <div class="overlay overlay-image playpauze"><video class="overlay" src="../media/pages/work/emble-studio/bf23992150-1646837264/emble-screen-graphic.mp4" loop muted playsinline></video></div>                                     
                    
                </div>
                            </div>
@@ -265,7 +252,7 @@
       <div class="flex-col">
          <div class="single-image">
                
-            <img class="overlay overlay-image lazy"  data-scroll data-scroll-speed="-3" src="https://dennissnellenberg.com/media/pages/work/emble-studio/6bf07087ad-1646837262/emble-falls-creek-summer-36-540x.jpg" data-src="https://dennissnellenberg.com/media/pages/work/emble-studio/6bf07087ad-1646837262/emble-falls-creek-summer-36.jpg" width="1500" height="1000" />   
+            <img class="overlay overlay-image lazy"  data-scroll data-scroll-speed="-3" src="../media/pages/work/emble-studio/6bf07087ad-1646837262/emble-falls-creek-summer-36-540x.jpg" data-src="../media/pages/work/emble-studio/6bf07087ad-1646837262/emble-falls-creek-summer-36.jpg" width="1500" height="1000" />   
                         <div class="overlay dark-overlay" style="opacity: 0.1;"></div>             
                         <div class="overlay text-overlay theme-dark">
                <div class="container">
@@ -282,11 +269,11 @@
             <div class="device">
                <div class="single-image">
                      
-                  <div class="overlay overlay-image playpauze"><video class="overlay" src="https://dennissnellenberg.com/media/pages/work/emble-studio/6b26906568-1646837260/emble-screen-team.mp4" loop muted playsinline></video></div>                                     
+                  <div class="overlay overlay-image playpauze"><video class="overlay" src="../media/pages/work/emble-studio/6b26906568-1646837260/emble-screen-team.mp4" loop muted playsinline></video></div>                                     
                    
                </div>
                   
-               <div class="overlay-device-image"><div class="overlay overlay-device" style="background: url('https://dennissnellenberg.com/assets/img/device-mbp-16-lower.png') center center no-repeat; background-size: cover;"></div></div>
+               <div class="overlay-device-image"><div class="overlay overlay-device" style="background: url('../assets/img/device-mbp-16-lower.png') center center no-repeat; background-size: cover;"></div></div>
                            </div>
          </div>
       </div>
@@ -299,14 +286,14 @@
 <div class="footer-wrap footer-case-wrap theme-dark" data-scroll-section>
    <section class="section footer" data-scroll data-scroll-speed="-4" data-scroll-position="bottom">
       <div class="container medium">
-         <a href="https://dennissnellenberg.com/work/one-nil" class="row next-case-btn">
+         <a href="work.php/one-nil" class="row next-case-btn">
             <div class="flex-col">
                <p>Next case</p>
                <h2>One:Nil</h2>
             </div>
             <div class="tile-image-wrap">
                <div class="tile-image">
-                                    <div class="overlay overlay-image lazy" data-scroll data-scroll-speed="2.5" data-scroll-position="bottom" style="background-color:var(--color-lightgray); background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="https://dennissnellenberg.com/media/pages/work/one-nil/4906e66370-1646837272/thumbnail-onenil-v3.jpg"></div>                                 </div>
+                                    <div class="overlay overlay-image lazy" data-scroll data-scroll-speed="2.5" data-scroll-position="bottom" style="background-color:var(--color-lightgray); background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="../media/pages/work/one-nil/4906e66370-1646837272/thumbnail-onenil-v3.jpg"></div>                                 </div>
             </div>
          </a>
          <div class="row">
@@ -317,7 +304,7 @@
          <div class="row">
             <div class="flex-col">
                <div class="btn btn-normal">
-                  <a href="https://dennissnellenberg.com/work" class="btn-click magnetic" data-strength="25" data-strength-text="15">
+                  <a href="work.php" class="btn-click magnetic" data-strength="25" data-strength-text="15">
                      <div class="btn-fill"></div>
                      <span class="btn-text">
                         <span class="btn-text-inner change">All work<div class="count-nr">9</div></span>

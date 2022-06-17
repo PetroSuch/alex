@@ -386,6 +386,7 @@ function initWorkItems() {
 }
 
 function initPageTransitions() {
+  console.log('initPageTransitions')
 
   //let scroll;
 

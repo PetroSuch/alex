@@ -1,4 +1,4 @@
-<!DOCTYPE html><!--  This site was created by Dennis Snellenberg (Code by Dennis)  -->
+<!DOCTYPE html> 
 <html lang="en">
    <?php include('includes/metadata.php');?>
    <body data-barba="wrapper">
@@ -270,7 +270,7 @@
                                  <div class="flex-col">
                                     <div class="tile-image">
                                        <div class="overlay overlay-color" style="background-color: #DCD0C2;"></div>
-                                       <div class="overlay overlay-image lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="https://dennissnellenberg.com/media/pages/work/future-goals/3eafae1c56-1653057688/thumbnail-futuregoals.jpg"></div>
+                                       <div class="overlay overlay-image lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="../media/pages/work/future-goals/3eafae1c56-1653057688/thumbnail-futuregoals.jpg"></div>
                                     </div>
                                  </div>
                                  <div class="flex-col">
@@ -293,7 +293,7 @@
                                  <div class="flex-col">
                                     <div class="tile-image">
                                        <div class="overlay overlay-color" style="background-color: #E2D1D9;"></div>
-                                       <div class="overlay overlay-image lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="https://dennissnellenberg.com/media/pages/work/chainn/3b2965a4d4-1646837292/thumbnail-chainn.jpg"></div>
+                                       <div class="overlay overlay-image lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="../media/pages/work/chainn/3b2965a4d4-1646837292/thumbnail-chainn.jpg"></div>
                                     </div>
                                  </div>
                                  <div class="flex-col">
@@ -316,7 +316,7 @@
                                  <div class="flex-col">
                                     <div class="tile-image">
                                        <div class="overlay overlay-color" style="background-color: #B1A994;"></div>
-                                       <div class="overlay overlay-image lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="https://dennissnellenberg.com/media/pages/work/atypikal/772a7bc7f2-1646837277/thumbnail-atypikal.jpg"></div>
+                                       <div class="overlay overlay-image lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="../media/pages/work/atypikal/772a7bc7f2-1646837277/thumbnail-atypikal.jpg"></div>
                                     </div>
                                  </div>
                                  <div class="flex-col">
@@ -339,7 +339,7 @@
                                  <div class="flex-col">
                                     <div class="tile-image">
                                        <div class="overlay overlay-color" style="background-color: #373737;"></div>
-                                       <div class="overlay overlay-image lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="https://dennissnellenberg.com/media/pages/work/micdrop-agency/f49041aa3c-1646837247/thumbnail-micdrop.jpg"></div>
+                                       <div class="overlay overlay-image lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="../media/pages/work/micdrop-agency/f49041aa3c-1646837247/thumbnail-micdrop.jpg"></div>
                                     </div>
                                  </div>
                                  <div class="flex-col">
@@ -362,7 +362,7 @@
                                  <div class="flex-col">
                                     <div class="tile-image">
                                        <div class="overlay overlay-color" style="background-color: #C2C2C2;"></div>
-                                       <div class="overlay overlay-image lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="https://dennissnellenberg.com/media/pages/work/tapsody/693cddafe2-1646837238/thumbnail-tapsody-v5.jpg"></div>
+                                       <div class="overlay overlay-image lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="../media/pages/work/tapsody/693cddafe2-1646837238/thumbnail-tapsody-v5.jpg"></div>
                                     </div>
                                  </div>
                                  <div class="flex-col">
@@ -385,7 +385,7 @@
                                  <div class="flex-col">
                                     <div class="tile-image">
                                        <div class="overlay overlay-color" style="background-color: #E49C4A;"></div>
-                                       <div class="overlay overlay-image lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="https://dennissnellenberg.com/media/pages/work/emble-studio/cb063dfbe5-1646837261/thumbnail-emble-yellow.jpg"></div>
+                                       <div class="overlay overlay-image lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="../media/pages/work/emble-studio/cb063dfbe5-1646837261/thumbnail-emble-yellow.jpg"></div>
                                     </div>
                                  </div>
                                  <div class="flex-col">
@@ -408,7 +408,7 @@
                                  <div class="flex-col">
                                     <div class="tile-image">
                                        <div class="overlay overlay-color" style="background-color: var(--color-lightgray);"></div>
-                                       <div class="overlay overlay-image lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="https://dennissnellenberg.com/media/pages/work/one-nil/4906e66370-1646837272/thumbnail-onenil-v3.jpg"></div>
+                                       <div class="overlay overlay-image lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="../media/pages/work/one-nil/4906e66370-1646837272/thumbnail-onenil-v3.jpg"></div>
                                     </div>
                                  </div>
                                  <div class="flex-col">
@@ -431,7 +431,7 @@
                                  <div class="flex-col">
                                     <div class="tile-image">
                                        <div class="overlay overlay-color" style="background-color: #626D6E;"></div>
-                                       <div class="overlay overlay-image lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="https://dennissnellenberg.com/media/pages/work/andy-hardy/592a7aa938-1646837253/thumbnail-andyhardy.jpg"></div>
+                                       <div class="overlay overlay-image lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="../media/pages/work/andy-hardy/592a7aa938-1646837253/thumbnail-andyhardy.jpg"></div>
                                     </div>
                                  </div>
                                  <div class="flex-col">
@@ -454,7 +454,7 @@
                                  <div class="flex-col">
                                     <div class="tile-image">
                                        <div class="overlay overlay-color" style="background-color: #C9C9C9;"></div>
-                                       <div class="overlay overlay-image lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="https://dennissnellenberg.com/media/pages/work/sunlight/bb0e08d2c5-1646837283/thumbnail-sunlight-v3.jpg"></div>
+                                       <div class="overlay overlay-image lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="../media/pages/work/sunlight/bb0e08d2c5-1646837283/thumbnail-sunlight-v3.jpg"></div>
                                     </div>
                                  </div>
                                  <div class="flex-col">
@@ -474,47 +474,30 @@
                   </div>
                </section>
             </section>
-            <!-- <section class="section center-grid-btn center-grid-btn-archive" data-scroll-section>
-               <div class="container">
-                  <div class="grid-after-btn">
-                     <div class="btn btn-normal btn-dark">
-                        <a href="https://dennissnellenberg.com/archive" class="btn-click magnetic" data-strength="25" data-strength-text="15">
-                           <div class="btn-fill"></div>
-                           <span class="btn-text">
-                              <span class="btn-text-inner change">
-                                 Archive
-                                 <div class="count-nr">30</div>
-                              </span>
-                           </span>
-                        </a>
-                     </div>
-                  </div>
-               </div>
-            </section> -->
             <section class="section horizontal-items" data-scroll-section>
                <div class="container">
                   <div class="row row-1" data-scroll data-scroll-speed="-1" data-scroll-direction="horizontal">
                      <div class="flex-col">
                         <div class="horizontal-single-item">
-                           <div class="overlay lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="https://dennissnellenberg.com/assets/img/home-item-1.jpg"></div>
+                           <div class="overlay lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="./assets/img/home-item-1.jpg"></div>
                         </div>
                      </div>
                      <div class="flex-col">
                         <div class="horizontal-single-item">
                            <div class="overlay playpauze">
-                              <video class="overlay lazy" src="https://dennissnellenberg.com/assets/img/home-item-2.mp4" loop muted playsinline></video>
+                              <video class="overlay lazy" src="./assets/img/home-item-2.mp4" loop muted playsinline></video>
                            </div>
                         </div>
                      </div>
                      <div class="flex-col">
                         <div class="horizontal-single-item">
-                           <div class="overlay lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="https://dennissnellenberg.com/assets/img/home-item-3.jpg"></div>
+                           <div class="overlay lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="./assets/img/home-item-3.jpg"></div>
                         </div>
                      </div>
                      <div class="flex-col">
                         <div class="horizontal-single-item">
                            <div class="overlay playpauze">
-                              <video class="overlay lazy" src="https://dennissnellenberg.com/assets/img/home-item-4.mp4" loop muted playsinline></video>
+                              <video class="overlay lazy" src="./assets/img/home-item-4.mp4" loop muted playsinline></video>
                            </div>
                         </div>
                      </div>
@@ -523,25 +506,25 @@
                      <div class="flex-col">
                         <div class="horizontal-single-item">
                            <div class="overlay playpauze">
-                              <video class="overlay lazy" src="https://dennissnellenberg.com/assets/img/home-item-5.mp4" loop muted playsinline></video>
+                              <video class="overlay lazy" src="./assets/img/home-item-5.mp4" loop muted playsinline></video>
                            </div>
                         </div>
                      </div>
                      <div class="flex-col">
                         <div class="horizontal-single-item">
-                           <div class="overlay lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="https://dennissnellenberg.com/assets/img/home-item-6.jpg"></div>
+                           <div class="overlay lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="./assets/img/home-item-6.jpg"></div>
                         </div>
                      </div>
                      <div class="flex-col">
                         <div class="horizontal-single-item">
                            <div class="overlay playpauze">
-                              <video class="overlay lazy" src="https://dennissnellenberg.com/assets/img/home-item-7.mp4" loop muted playsinline></video>
+                              <video class="overlay lazy" src="./assets/img/home-item-7.mp4" loop muted playsinline></video>
                            </div>
                         </div>
                      </div>
                      <div class="flex-col">
                         <div class="horizontal-single-item">
-                           <div class="overlay lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="https://dennissnellenberg.com/assets/img/home-item-8.jpg"></div>
+                           <div class="overlay lazy" style="background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="./assets/img/home-item-8.jpg"></div>
                         </div>
                      </div>
                   </div>

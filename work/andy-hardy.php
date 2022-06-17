@@ -1,4 +1,4 @@
-<!DOCTYPE html><!--  This site was created by Dennis Snellenberg (Code by Dennis)  -->
+<!DOCTYPE html> 
 <html lang="en">
    <?php include('../includes/metadata.php');?>
 
@@ -31,28 +31,22 @@
                         <div class="stripe"></div>
                         <ul class="links-wrap">
                             <li class="btn btn-link">
-                                <a href="https://dennissnellenberg.com" class="btn-click magnetic" data-strength="24" data-strength-text="12">
+                                <a href="index.php" class="btn-click magnetic" data-strength="24" data-strength-text="12">
                                 <span class="btn-text">
                                     <span class="btn-text-inner">Home</span>
                                 </span>
                                 </a>
                             </li>
                             <li class="btn btn-link active">
-                                <a href="https://dennissnellenberg.com/work" class="btn-click magnetic" data-strength="24" data-strength-text="12">
+                                <a href="work.php" class="btn-click magnetic" data-strength="24" data-strength-text="12">
                                 <span class="btn-text">
                                     <span class="btn-text-inner">Work</span>
                                 </span>
                                 </a>
                             </li>
+                              
                             <li class="btn btn-link">
-                                <a href="https://dennissnellenberg.com/about" class="btn-click magnetic" data-strength="24" data-strength-text="12">
-                                <span class="btn-text">
-                                    <span class="btn-text-inner">About</span>
-                                </span>
-                                </a>
-                            </li>
-                            <li class="btn btn-link">
-                                <a href="https://dennissnellenberg.com/contact" class="btn-click magnetic" data-strength="24" data-strength-text="12">
+                                <a href="contact.php" class="btn-click magnetic" data-strength="24" data-strength-text="12">
                                 <span class="btn-text">
                                     <span class="btn-text-inner">Contact</span>
                                 </span>
@@ -66,28 +60,28 @@
                             <h5>Socials</h5>
                             <ul>
                                 <li class="btn btn-link btn-link-external">
-                                    <a href="https://www.awwwards.com/dennissnellenberg/" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                                    <a href="https://www.awwwards.com/..//" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
                                         <span class="btn-text">
                                             <span class="btn-text-inner">Awwwards</span>
                                         </span>
                                     </a>
                                 </li>
                                 <li class="btn btn-link btn-link-external">
-                                    <a href="https://www.instagram.com/codebydennis/" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                                    <a href="  " target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
                                         <span class="btn-text">
                                             <span class="btn-text-inner">Instagram</span>
                                         </span>
                                     </a>
                                 </li>
                                 <li class="btn btn-link btn-link-external">
-                                    <a href="https://dribbble.com/dennissnellenberg" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                                    <a href="https://dribbble.com/../" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
                                         <span class="btn-text">
                                             <span class="btn-text-inner">Dribbble</span>
                                         </span>
                                     </a>
                                 </li>
                                 <li class="btn btn-link btn-link-external">
-                                    <a href="https://www.linkedin.com/in/dennissnellenberg/" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                                    <a href="https://www.linkedin.com/in/..//" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
                                         <span class="btn-text">
                                             <span class="btn-text-inner">LinkedIn</span>
                                         </span>
@@ -103,30 +97,23 @@
    <div class="nav-bar">
     <div class="credits-top">
         <div class="btn btn-link btn-left-top">
-            <a href="https://dennissnellenberg.com" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+            <a href="index.php" class="btn-click magnetic" data-strength="20" data-strength-text="10">
             <span class="btn-text">
-                <div class="credit"><span>©</span></div><div class="cbd"><span class="code-by">Code by </span><span class="dennis"><span class="dennis-span">Dennis</span> <span class="snellenberg">Snellenberg</span></span></span></div>
-            </span>
+             </span>
             </a>
         </div>
     </div>
     <ul class="links-wrap">
         <li class="btn btn-link active">
-            <a href="https://dennissnellenberg.com/work" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+            <a href="work.php" class="btn-click magnetic" data-strength="20" data-strength-text="10">
             <span class="btn-text">
                 <span class="btn-text-inner">Work</span>
             </span>
             </a>
         </li>
+       
         <li class="btn btn-link">
-            <a href="https://dennissnellenberg.com/about" class="btn-click magnetic" data-strength="20" data-strength-text="10">
-            <span class="btn-text">
-                <span class="btn-text-inner">About</span>
-            </span>
-            </a>
-        </li>
-        <li class="btn btn-link">
-            <a href="https://dennissnellenberg.com/contact" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+            <a href="contact.php" class="btn-click magnetic" data-strength="20" data-strength-text="10">
             <span class="btn-text">
                 <span class="btn-text-inner">Contact</span>
             </span>
@@ -193,7 +180,7 @@
                </div>
             </div>
             <div class="single-image">
-               <img class="overlay lazy" data-scroll data-scroll-speed="-1" src="https://dennissnellenberg.com/media/pages/work/andy-hardy/13d0a4db18-1646837251/image-case-andy-540x.png" data-src="https://dennissnellenberg.com/media/pages/work/andy-hardy/13d0a4db18-1646837251/image-case-andy.png" />               <img class="overlay overlay-image-top lazy" data-src="https://dennissnellenberg.com/media/pages/work/andy-hardy/fdc18a986f-1646837255/andy-name.svg" />            </div>
+               <img class="overlay lazy" data-scroll data-scroll-speed="-1" src="../media/pages/work/andy-hardy/13d0a4db18-1646837251/image-case-andy-540x.png" data-src="../media/pages/work/andy-hardy/13d0a4db18-1646837251/image-case-andy.png" />               <img class="overlay overlay-image-top lazy" data-src="../media/pages/work/andy-hardy/fdc18a986f-1646837255/andy-name.svg" />            </div>
          </div>
       </div>
    </div>
@@ -206,12 +193,12 @@
             <div class="device">
                <div class="single-image">
                      
-                  <div class="overlay overlay-image"><div class="parallax-image-wrap"><img class="lazy" src="https://dennissnellenberg.com/media/pages/work/andy-hardy/694329afc0-1646837250/landscape-background-small-540x.jpg" data-src="https://dennissnellenberg.com/media/pages/work/andy-hardy/694329afc0-1646837250/landscape_background_small.jpg" width="1800" height="1344"  data-scroll data-scroll-speed="-1.5"/></div></div>   
-                                    <img class="overlay overlay-image overlay-top lazy" src="https://dennissnellenberg.com/media/pages/work/andy-hardy/4eb03e28b0-1646837250/landscape-andy-540x.png" data-src="https://dennissnellenberg.com/media/pages/work/andy-hardy/4eb03e28b0-1646837250/landscape_andy.png" width="3200" height="2150"  data-scroll data-scroll-speed="-.75" /> 
-                  <img class="overlay overlay-image overlay-top lazy" src="https://dennissnellenberg.com/media/pages/work/andy-hardy/1b4c4d69e9-1646837252/andrew-top-540x.png" data-src="https://dennissnellenberg.com/media/pages/work/andy-hardy/1b4c4d69e9-1646837252/andrew-top.png" width="2880" height="1800"  /> 
+                  <div class="overlay overlay-image"><div class="parallax-image-wrap"><img class="lazy" src="../media/pages/work/andy-hardy/694329afc0-1646837250/landscape-background-small-540x.jpg" data-src="../media/pages/work/andy-hardy/694329afc0-1646837250/landscape_background_small.jpg" width="1800" height="1344"  data-scroll data-scroll-speed="-1.5"/></div></div>   
+                                    <img class="overlay overlay-image overlay-top lazy" src="../media/pages/work/andy-hardy/4eb03e28b0-1646837250/landscape-andy-540x.png" data-src="../media/pages/work/andy-hardy/4eb03e28b0-1646837250/landscape_andy.png" width="3200" height="2150"  data-scroll data-scroll-speed="-.75" /> 
+                  <img class="overlay overlay-image overlay-top lazy" src="../media/pages/work/andy-hardy/1b4c4d69e9-1646837252/andrew-top-540x.png" data-src="../media/pages/work/andy-hardy/1b4c4d69e9-1646837252/andrew-top.png" width="2880" height="1800"  /> 
                </div>
                  
-               <div class="overlay-device-image"><div class="overlay overlay-device" style="background: url('https://dennissnellenberg.com/assets/img/device-mbp-16-lower.png') center center no-repeat; background-size: cover;"></div></div>
+               <div class="overlay-device-image"><div class="overlay overlay-device" style="background: url('../assets/img/device-mbp-16-lower.png') center center no-repeat; background-size: cover;"></div></div>
                            </div>
          </div>
       </div>
@@ -223,7 +210,7 @@
             <div class="device">
                <div class="single-image">
                      
-                  <div class="overlay overlay-image playpauze"><video class="overlay" src="https://dennissnellenberg.com/media/pages/work/andy-hardy/02c9a1f09f-1646837253/andy-portfolio.mp4" loop muted playsinline></video></div>                                     
+                  <div class="overlay overlay-image playpauze"><video class="overlay" src="../media/pages/work/andy-hardy/02c9a1f09f-1646837253/andy-portfolio.mp4" loop muted playsinline></video></div>                                     
                    
                </div>
                            </div>
@@ -235,7 +222,7 @@
       <div class="flex-col">
          <div class="single-image">
                
-            <img class="overlay overlay-image lazy"  data-scroll data-scroll-speed="-3" src="https://dennissnellenberg.com/media/pages/work/andy-hardy/7594aa7d0e-1646837255/andy-hardy-people-accomodation-photographer-filmmaker-australia-16-2160x2160-540x.jpg" data-src="https://dennissnellenberg.com/media/pages/work/andy-hardy/7594aa7d0e-1646837255/andy-hardy-people-accomodation-photographer-filmmaker-australia-16-2160x2160.jpg" width="2000" height="1333" />   
+            <img class="overlay overlay-image lazy"  data-scroll data-scroll-speed="-3" src="../media/pages/work/andy-hardy/7594aa7d0e-1646837255/andy-hardy-people-accomodation-photographer-filmmaker-australia-16-2160x2160-540x.jpg" data-src="../media/pages/work/andy-hardy/7594aa7d0e-1646837255/andy-hardy-people-accomodation-photographer-filmmaker-australia-16-2160x2160.jpg" width="2000" height="1333" />   
                         <div class="overlay dark-overlay" style="opacity: 0.1;"></div>             
                         <div class="overlay text-overlay theme-dark">
                <div class="container">
@@ -252,27 +239,27 @@
             <div class="device" data-scroll data-scroll-target=".block_3" data-scroll-speed="1">
                <div class="single-image">
                      
-                  <img class="overlay overlay-image lazy" src="https://dennissnellenberg.com/media/pages/work/andy-hardy/f57c73a425-1646837253/andy-mobile-1-540x.jpg" data-src="https://dennissnellenberg.com/media/pages/work/andy-hardy/f57c73a425-1646837253/andy-mobile-1.jpg" width="540" height="1170" /> 
+                  <img class="overlay overlay-image lazy" src="../media/pages/work/andy-hardy/f57c73a425-1646837253/andy-mobile-1-540x.jpg" data-src="../media/pages/work/andy-hardy/f57c73a425-1646837253/andy-mobile-1.jpg" width="540" height="1170" /> 
                                  </div>  
-                                 <div class="overlay-device-image"><div class="overlay overlay-device" style="background: url('https://dennissnellenberg.com/assets/img/device-iphone13-nonotch.png') center center no-repeat; background-size: cover;"></div></div>
+                                 <div class="overlay-device-image"><div class="overlay overlay-device" style="background: url('../assets/img/device-iphone13-nonotch.png') center center no-repeat; background-size: cover;"></div></div>
                            </div>
          </div>
                   <div class="flex-col block-padding-bottom" >
             <div class="device">
                <div class="single-image">
                      
-                  <img class="overlay overlay-image lazy" src="https://dennissnellenberg.com/media/pages/work/andy-hardy/48e63ebd21-1646837251/andy-mobile-3-540x.jpg" data-src="https://dennissnellenberg.com/media/pages/work/andy-hardy/48e63ebd21-1646837251/andy-mobile-3.jpg" width="540" height="1170" /> 
+                  <img class="overlay overlay-image lazy" src="../media/pages/work/andy-hardy/48e63ebd21-1646837251/andy-mobile-3-540x.jpg" data-src="../media/pages/work/andy-hardy/48e63ebd21-1646837251/andy-mobile-3.jpg" width="540" height="1170" /> 
                                  </div>  
-                                 <div class="overlay-device-image"><div class="overlay overlay-device" style="background: url('https://dennissnellenberg.com/assets/img/device-iphone13-nonotch.png') center center no-repeat; background-size: cover;"></div></div>
+                                 <div class="overlay-device-image"><div class="overlay overlay-device" style="background: url('../assets/img/device-iphone13-nonotch.png') center center no-repeat; background-size: cover;"></div></div>
                            </div>
          </div>
                            <div class="flex-col block-padding-bottom" >
             <div class="device" data-scroll data-scroll-target=".block_3" data-scroll-speed="-1">
                <div class="single-image">
                      
-                  <img class="overlay overlay-image lazy" src="https://dennissnellenberg.com/media/pages/work/andy-hardy/8b53e6f2df-1646837254/andy-mobile-4-540x.jpg" data-src="https://dennissnellenberg.com/media/pages/work/andy-hardy/8b53e6f2df-1646837254/andy-mobile-4.jpg" width="540" height="1170" /> 
+                  <img class="overlay overlay-image lazy" src="../media/pages/work/andy-hardy/8b53e6f2df-1646837254/andy-mobile-4-540x.jpg" data-src="../media/pages/work/andy-hardy/8b53e6f2df-1646837254/andy-mobile-4.jpg" width="540" height="1170" /> 
                                  </div>  
-                                 <div class="overlay-device-image"><div class="overlay overlay-device" style="background: url('https://dennissnellenberg.com/assets/img/device-iphone13-nonotch.png') center center no-repeat; background-size: cover;"></div></div>
+                                 <div class="overlay-device-image"><div class="overlay overlay-device" style="background: url('../assets/img/device-iphone13-nonotch.png') center center no-repeat; background-size: cover;"></div></div>
                            </div>
          </div>
                </div>
@@ -286,7 +273,7 @@
             <div class="device">
                <div class="single-image">
                      
-                  <img class="lazy" src="https://dennissnellenberg.com/media/pages/work/andy-hardy/3b8fd132a6-1646837256/andy-screen-personal-540x.jpg" data-src="https://dennissnellenberg.com/media/pages/work/andy-hardy/3b8fd132a6-1646837256/andy-screen-personal.jpg" width="2880" height="1800"/>   
+                  <img class="lazy" src="../media/pages/work/andy-hardy/3b8fd132a6-1646837256/andy-screen-personal-540x.jpg" data-src="../media/pages/work/andy-hardy/3b8fd132a6-1646837256/andy-screen-personal.jpg" width="2880" height="1800"/>   
                                  </div>
                            </div>
          </div>
@@ -299,7 +286,7 @@
             <div class="device">
                <div class="single-image">
                      
-                  <div class="playpauze"><video class="" src="https://dennissnellenberg.com/media/pages/work/andy-hardy/a91ad6bac7-1646837254/andy-screen-interaction.mp4" loop muted playsinline></video></div>                                 </div>
+                  <div class="playpauze"><video class="" src="../media/pages/work/andy-hardy/a91ad6bac7-1646837254/andy-screen-interaction.mp4" loop muted playsinline></video></div>                                 </div>
                            </div>
          </div>
       </div>
@@ -312,14 +299,14 @@
 <div class="footer-wrap footer-case-wrap theme-dark" data-scroll-section>
    <section class="section footer" data-scroll data-scroll-speed="-4" data-scroll-position="bottom">
       <div class="container medium">
-         <a href="https://dennissnellenberg.com/work/sunlight" class="row next-case-btn">
+         <a href="work.php/sunlight" class="row next-case-btn">
             <div class="flex-col">
                <p>Next case</p>
                <h2>Sunlight</h2>
             </div>
             <div class="tile-image-wrap">
                <div class="tile-image">
-                                    <div class="overlay overlay-image lazy" data-scroll data-scroll-speed="2.5" data-scroll-position="bottom" style="background-color:#C9C9C9; background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="https://dennissnellenberg.com/media/pages/work/sunlight/bb0e08d2c5-1646837283/thumbnail-sunlight-v3.jpg"></div>                                 </div>
+                                    <div class="overlay overlay-image lazy" data-scroll data-scroll-speed="2.5" data-scroll-position="bottom" style="background-color:#C9C9C9; background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="../media/pages/work/sunlight/bb0e08d2c5-1646837283/thumbnail-sunlight-v3.jpg"></div>                                 </div>
             </div>
          </a>
          <div class="row">
@@ -330,7 +317,7 @@
          <div class="row">
             <div class="flex-col">
                <div class="btn btn-normal">
-                  <a href="https://dennissnellenberg.com/work" class="btn-click magnetic" data-strength="25" data-strength-text="15">
+                  <a href="work.php" class="btn-click magnetic" data-strength="25" data-strength-text="15">
                      <div class="btn-fill"></div>
                      <span class="btn-text">
                         <span class="btn-text-inner change">All work<div class="count-nr">9</div></span>

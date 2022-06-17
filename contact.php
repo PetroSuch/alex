@@ -12,7 +12,7 @@ if(isset($_POST['message'])){
  }
 ?>
 
-<!DOCTYPE html><!--  This site was created by Dennis Snellenberg (Code by Dennis)  -->
+<!DOCTYPE html> 
 <html lang="en">
    <?php include('includes/metadata.php');?>
    <body data-barba="wrapper">
@@ -83,7 +83,7 @@ if(isset($_POST['message'])){
                            <div class="form-col">
                               <h5>05</h5>
                               <label class="label" for="message">Your message</label>
-                              <textarea class="field" type="text" id="form-message" name="message" rows="4"  required placeholder="Hello Dennis, can you help me with ... *"></textarea>
+                              <textarea class="field" type="text" id="form-message" name="message" rows="4"  required placeholder="Hello Alex, can you help me with ... *"></textarea>
                            </div>
                            <div class="btn-contact-send">
                               <div class="btn btn-round" data-scroll data-scroll-speed="2">
@@ -101,9 +101,9 @@ if(isset($_POST['message'])){
                         <h5>Contact Details</h5>
                         <ul class="links-wrap">
                            <li class="btn btn-link btn-link-external">
-                              <a href="mailto:info@dennissnellenberg.com" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                              <a href="mailto:info@../.com" class="btn-click magnetic" data-strength="20" data-strength-text="10">
                               <span class="btn-text">
-                              <span class="btn-text-inner">info@dennissnellenberg.com</span>
+                              <span class="btn-text-inner">info@../.com</span>
                               </span>
                               </a>
                            </li>
@@ -130,28 +130,28 @@ if(isset($_POST['message'])){
                         <h5>Socials</h5>
                         <ul class="links-wrap">
                            <li class="btn btn-link btn-link-external">
-                              <a href="https://www.awwwards.com/dennissnellenberg/" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                              <a href="https://www.awwwards.com/..//" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
                               <span class="btn-text">
                               <span class="btn-text-inner">Awwwards</span>
                               </span>
                               </a>
                            </li>
                            <li class="btn btn-link btn-link-external">
-                              <a href="https://www.instagram.com/codebydennis/" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                              <a href="  " target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
                               <span class="btn-text">
                               <span class="btn-text-inner">Instagram</span>
                               </span>
                               </a>
                            </li>
                            <li class="btn btn-link btn-link-external">
-                              <a href="https://dribbble.com/dennissnellenberg" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                              <a href="https://dribbble.com/../" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
                               <span class="btn-text">
                               <span class="btn-text-inner">Dribbble</span>
                               </span>
                               </a>
                            </li>
                            <li class="btn btn-link btn-link-external">
-                              <a href="https://www.linkedin.com/in/dennissnellenberg/" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                              <a href="https://www.linkedin.com/in/..//" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
                               <span class="btn-text">
                               <span class="btn-text-inner">LinkedIn</span>
                               </span>
@@ -172,6 +172,6 @@ if(isset($_POST['message'])){
       <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/ScrollTrigger.min.js"></script>
       <script src="https://unpkg.com/@barba/core"></script>
       <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.6.1/dist/lazyload.min.js"></script>
-      <script src="https://dennissnellenberg.com/assets/js/locomotive-scroll.min.js"></script>        <script defer src="https://dennissnellenberg.com/assets/js/index-new.js"></script>    
+      <script src="../assets/js/locomotive-scroll.min.js"></script>        <script defer src="../assets/js/index-new.js"></script>    
    </body>
 </html>

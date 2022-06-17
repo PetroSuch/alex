@@ -1,14 +1,6 @@
 <div class="nav-bar">
     <div class="credits-top">
         <div class="btn btn-link btn-left-top">
-        <a href="" class="btn-click magnetic" data-strength="20" data-strength-text="10">
-            <span class="btn-text">
-                <div class="credit"><span>©</span></div>
-                <div class="cbd"><span class="code-by">Code by </span><span class="dennis"><span class="dennis-span">Dennis</span> <span class="snellenberg">Snellenberg</span></span>
-            </span>
-            </div>
-            </span>
-        </a>
         </div>
     </div>
     <?php

@@ -67,28 +67,28 @@
                 <h5>Socials</h5>
                 <ul>
                 <li class="btn btn-link btn-link-external">
-                    <a href="https://www.awwwards.com/dennissnellenberg/" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                    <a href="https://www.awwwards.com/..//" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
                     <span class="btn-text">
                     <span class="btn-text-inner">Awwwards</span>
                     </span>
                     </a>
                 </li>
                 <li class="btn btn-link btn-link-external">
-                    <a href="https://www.instagram.com/codebydennis/" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                    <a href="  " target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
                     <span class="btn-text">
                     <span class="btn-text-inner">Instagram</span>
                     </span>
                     </a>
                 </li>
                 <li class="btn btn-link btn-link-external">
-                    <a href="https://dribbble.com/dennissnellenberg" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                    <a href="https://dribbble.com/../" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
                     <span class="btn-text">
                     <span class="btn-text-inner">Dribbble</span>
                     </span>
                     </a>
                 </li>
                 <li class="btn btn-link btn-link-external">
-                    <a href="https://www.linkedin.com/in/dennissnellenberg/" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                    <a href="https://www.linkedin.com/in/..//" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
                     <span class="btn-text">
                     <span class="btn-text-inner">LinkedIn</span>
                     </span>

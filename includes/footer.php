@@ -30,7 +30,7 @@
                 <div class="stripe"></div>
                 <div class="btn-fixed">
                     <div class="btn btn-round" data-scroll data-scroll-speed="-1" data-scroll-direction="horizontal" data-scroll-position="bottom" data-scroll-offset="-50%, 0">
-                        <a href="https://dennissnellenberg.com/contact" class="btn-click magnetic " data-strength="100" data-strength-text="50">
+                        <a href="contact.php" class="btn-click magnetic " data-strength="100" data-strength-text="50">
                         <div class="btn-fill"></div>
                         <span class="btn-text">
                         <span class="btn-text-inner">Get in touch</span>
@@ -43,10 +43,10 @@
             <div class="row">
             <div class="flex-col">
                 <div class="btn btn-normal">
-                    <a href="mailto:info@dennissnellenberg.com" class="btn-click magnetic" data-strength="25" data-strength-text="15">
+                    <a href="mailto:info@../.com" class="btn-click magnetic" data-strength="25" data-strength-text="15">
                         <div class="btn-fill"></div>
                         <span class="btn-text">
-                        <span class="btn-text-inner change">info@dennissnellenberg.com</span>
+                        <span class="btn-text-inner change">info@../.com</span>
                         </span>
                     </a>
                 </div>

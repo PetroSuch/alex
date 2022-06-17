@@ -1,4 +1,4 @@
-<!DOCTYPE html><!--  This site was created by Dennis Snellenberg (Code by Dennis)  -->
+<!DOCTYPE html> 
 <html lang="en">
    <?php include('../includes/metadata.php');?>
 
@@ -33,28 +33,22 @@
                         <div class="stripe"></div>
                         <ul class="links-wrap">
                             <li class="btn btn-link">
-                                <a href="https://dennissnellenberg.com" class="btn-click magnetic" data-strength="24" data-strength-text="12">
+                                <a href="index.php" class="btn-click magnetic" data-strength="24" data-strength-text="12">
                                 <span class="btn-text">
                                     <span class="btn-text-inner">Home</span>
                                 </span>
                                 </a>
                             </li>
                             <li class="btn btn-link active">
-                                <a href="https://dennissnellenberg.com/work" class="btn-click magnetic" data-strength="24" data-strength-text="12">
+                                <a href="work.php" class="btn-click magnetic" data-strength="24" data-strength-text="12">
                                 <span class="btn-text">
                                     <span class="btn-text-inner">Work</span>
                                 </span>
                                 </a>
                             </li>
+                              
                             <li class="btn btn-link">
-                                <a href="https://dennissnellenberg.com/about" class="btn-click magnetic" data-strength="24" data-strength-text="12">
-                                <span class="btn-text">
-                                    <span class="btn-text-inner">About</span>
-                                </span>
-                                </a>
-                            </li>
-                            <li class="btn btn-link">
-                                <a href="https://dennissnellenberg.com/contact" class="btn-click magnetic" data-strength="24" data-strength-text="12">
+                                <a href="contact.php" class="btn-click magnetic" data-strength="24" data-strength-text="12">
                                 <span class="btn-text">
                                     <span class="btn-text-inner">Contact</span>
                                 </span>
@@ -68,28 +62,28 @@
                             <h5>Socials</h5>
                             <ul>
                                 <li class="btn btn-link btn-link-external">
-                                    <a href="https://www.awwwards.com/dennissnellenberg/" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                                    <a href="https://www.awwwards.com/..//" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
                                         <span class="btn-text">
                                             <span class="btn-text-inner">Awwwards</span>
                                         </span>
                                     </a>
                                 </li>
                                 <li class="btn btn-link btn-link-external">
-                                    <a href="https://www.instagram.com/codebydennis/" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                                    <a href="  " target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
                                         <span class="btn-text">
                                             <span class="btn-text-inner">Instagram</span>
                                         </span>
                                     </a>
                                 </li>
                                 <li class="btn btn-link btn-link-external">
-                                    <a href="https://dribbble.com/dennissnellenberg" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                                    <a href="https://dribbble.com/../" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
                                         <span class="btn-text">
                                             <span class="btn-text-inner">Dribbble</span>
                                         </span>
                                     </a>
                                 </li>
                                 <li class="btn btn-link btn-link-external">
-                                    <a href="https://www.linkedin.com/in/dennissnellenberg/" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                                    <a href="https://www.linkedin.com/in/..//" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
                                         <span class="btn-text">
                                             <span class="btn-text-inner">LinkedIn</span>
                                         </span>
@@ -105,30 +99,23 @@
    <div class="nav-bar">
     <div class="credits-top">
         <div class="btn btn-link btn-left-top">
-            <a href="https://dennissnellenberg.com" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+            <a href="index.php" class="btn-click magnetic" data-strength="20" data-strength-text="10">
             <span class="btn-text">
-                <div class="credit"><span>©</span></div><div class="cbd"><span class="code-by">Code by </span><span class="dennis"><span class="dennis-span">Dennis</span> <span class="snellenberg">Snellenberg</span></span></span></div>
-            </span>
+             </span>
             </a>
         </div>
     </div>
     <ul class="links-wrap">
         <li class="btn btn-link active">
-            <a href="https://dennissnellenberg.com/work" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+            <a href="work.php" class="btn-click magnetic" data-strength="20" data-strength-text="10">
             <span class="btn-text">
                 <span class="btn-text-inner">Work</span>
             </span>
             </a>
         </li>
+       
         <li class="btn btn-link">
-            <a href="https://dennissnellenberg.com/about" class="btn-click magnetic" data-strength="20" data-strength-text="10">
-            <span class="btn-text">
-                <span class="btn-text-inner">About</span>
-            </span>
-            </a>
-        </li>
-        <li class="btn btn-link">
-            <a href="https://dennissnellenberg.com/contact" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+            <a href="contact.php" class="btn-click magnetic" data-strength="20" data-strength-text="10">
             <span class="btn-text">
                 <span class="btn-text-inner">Contact</span>
             </span>
@@ -195,7 +182,7 @@
                </div>
             </div>
             <div class="single-image">
-               <img class="overlay lazy" data-scroll data-scroll-speed="-1" src="https://dennissnellenberg.com/media/pages/work/tapsody/5548761366-1646837239/richie-lugo-usc6z5ajevm-unsplash-edit-540x.jpg" data-src="https://dennissnellenberg.com/media/pages/work/tapsody/5548761366-1646837239/richie-lugo-usc6z5ajevm-unsplash-edit.jpg" />               <img class="overlay overlay-image-top lazy" data-src="https://dennissnellenberg.com/media/pages/work/tapsody/7defc1c858-1646837234/tapsody-case-header-overlay.svg" />            </div>
+               <img class="overlay lazy" data-scroll data-scroll-speed="-1" src="../media/pages/work/tapsody/5548761366-1646837239/richie-lugo-usc6z5ajevm-unsplash-edit-540x.jpg" data-src="../media/pages/work/tapsody/5548761366-1646837239/richie-lugo-usc6z5ajevm-unsplash-edit.jpg" />               <img class="overlay overlay-image-top lazy" data-src="../media/pages/work/tapsody/7defc1c858-1646837234/tapsody-case-header-overlay.svg" />            </div>
          </div>
       </div>
    </div>
@@ -208,27 +195,27 @@
             <div class="device" data-scroll data-scroll-target=".block_0" data-scroll-speed="1">
                <div class="single-image">
                      
-                  <img class="overlay overlay-image lazy" src="https://dennissnellenberg.com/media/pages/work/tapsody/9465682962-1646837237/venue-marketplace-no-scroll-540x.jpg" data-src="https://dennissnellenberg.com/media/pages/work/tapsody/9465682962-1646837237/venue_-marketplace-no-scroll.jpg" width="1125" height="2436" /> 
+                  <img class="overlay overlay-image lazy" src="../media/pages/work/tapsody/9465682962-1646837237/venue-marketplace-no-scroll-540x.jpg" data-src="../media/pages/work/tapsody/9465682962-1646837237/venue_-marketplace-no-scroll.jpg" width="1125" height="2436" /> 
                                  </div>  
-                              <div class="overlay-device-image"><div class="overlay overlay-device" style="background: url('https://dennissnellenberg.com/assets/img/device-iphone13.png') center center no-repeat; background-size: cover;"></div></div>
+                              <div class="overlay-device-image"><div class="overlay overlay-device" style="background: url('../assets/img/device-iphone13.png') center center no-repeat; background-size: cover;"></div></div>
                            </div>
          </div>
                   <div class="flex-col block-padding-bottom" >
             <div class="device">
                <div class="single-image">
                      
-                  <img class="overlay overlay-image lazy" src="https://dennissnellenberg.com/media/pages/work/tapsody/6ed1dc66b0-1646837235/venue-inbox-delete-message-540x.jpg" data-src="https://dennissnellenberg.com/media/pages/work/tapsody/6ed1dc66b0-1646837235/venue_-inbox-_-delete-message.jpg" width="1125" height="2436" /> 
+                  <img class="overlay overlay-image lazy" src="../media/pages/work/tapsody/6ed1dc66b0-1646837235/venue-inbox-delete-message-540x.jpg" data-src="../media/pages/work/tapsody/6ed1dc66b0-1646837235/venue_-inbox-_-delete-message.jpg" width="1125" height="2436" /> 
                                  </div>  
-                              <div class="overlay-device-image"><div class="overlay overlay-device" style="background: url('https://dennissnellenberg.com/assets/img/device-iphone13.png') center center no-repeat; background-size: cover;"></div></div>
+                              <div class="overlay-device-image"><div class="overlay overlay-device" style="background: url('../assets/img/device-iphone13.png') center center no-repeat; background-size: cover;"></div></div>
                            </div>
          </div>
                            <div class="flex-col block-padding-bottom" >
             <div class="device" data-scroll data-scroll-target=".block_0" data-scroll-speed="-1">
                <div class="single-image">
                      
-                  <img class="overlay overlay-image lazy" src="https://dennissnellenberg.com/media/pages/work/tapsody/18ccc8db5f-1646837240/venue-bookings-calendar-540x.jpg" data-src="https://dennissnellenberg.com/media/pages/work/tapsody/18ccc8db5f-1646837240/venue_-bookings-calendar.jpg" width="1125" height="2436" /> 
+                  <img class="overlay overlay-image lazy" src="../media/pages/work/tapsody/18ccc8db5f-1646837240/venue-bookings-calendar-540x.jpg" data-src="../media/pages/work/tapsody/18ccc8db5f-1646837240/venue_-bookings-calendar.jpg" width="1125" height="2436" /> 
                                  </div>  
-                              <div class="overlay-device-image"><div class="overlay overlay-device" style="background: url('https://dennissnellenberg.com/assets/img/device-iphone13.png') center center no-repeat; background-size: cover;"></div></div>
+                              <div class="overlay-device-image"><div class="overlay overlay-device" style="background: url('../assets/img/device-iphone13.png') center center no-repeat; background-size: cover;"></div></div>
                            </div>
          </div>
                </div>
@@ -240,7 +227,7 @@
       <div class="flex-col">
          <div class="single-image">
              
-            <div class="overlay overlay-image playpauze" data-scroll data-scroll-speed="-3"><video class="overlay" src="https://dennissnellenberg.com/media/pages/work/tapsody/29859cba57-1646837242/tapsody-bg-video.mp4" loop muted playsinline></video></div>                        <div class="overlay dark-overlay" style="opacity: 0.3;"></div>             
+            <div class="overlay overlay-image playpauze" data-scroll data-scroll-speed="-3"><video class="overlay" src="../media/pages/work/tapsody/29859cba57-1646837242/tapsody-bg-video.mp4" loop muted playsinline></video></div>                        <div class="overlay dark-overlay" style="opacity: 0.3;"></div>             
                      </div>
       </div>
    </div>
@@ -251,11 +238,11 @@
             <div class="device">
                <div class="single-image">
                      
-                  <div class="overlay overlay-image playpauze"><video class="overlay" src="https://dennissnellenberg.com/media/pages/work/tapsody/9320c7ee9c-1646837238/tapsody-screen-home.mp4" loop muted playsinline></video></div>                                     
+                  <div class="overlay overlay-image playpauze"><video class="overlay" src="../media/pages/work/tapsody/9320c7ee9c-1646837238/tapsody-screen-home.mp4" loop muted playsinline></video></div>                                     
                    
                </div>
                   
-               <div class="overlay-device-image"><div class="overlay overlay-device" style="background: url('https://dennissnellenberg.com/assets/img/device-mbp-16-lower.png') center center no-repeat; background-size: cover;"></div></div>
+               <div class="overlay-device-image"><div class="overlay overlay-device" style="background: url('../assets/img/device-mbp-16-lower.png') center center no-repeat; background-size: cover;"></div></div>
                            </div>
          </div>
       </div>
@@ -267,16 +254,16 @@
             <div class="device">
                <div class="single-image">
                      
-                  <div class="overlay overlay-image playpauze"><video class="overlay" src="https://dennissnellenberg.com/media/pages/work/tapsody/1855370d34-1646837233/tapsody-screen-scroll.mp4" loop muted playsinline></video></div>                                 </div>  
-                              <div class="overlay-device-image"><div class="overlay overlay-device" style="background: url('https://dennissnellenberg.com/assets/img/device-iphone13.png') center center no-repeat; background-size: cover;"></div></div>
+                  <div class="overlay overlay-image playpauze"><video class="overlay" src="../media/pages/work/tapsody/1855370d34-1646837233/tapsody-screen-scroll.mp4" loop muted playsinline></video></div>                                 </div>  
+                              <div class="overlay-device-image"><div class="overlay overlay-device" style="background: url('../assets/img/device-iphone13.png') center center no-repeat; background-size: cover;"></div></div>
                            </div>
          </div>
                   <div class="flex-col block-padding-bottom" >
             <div class="device">
                <div class="single-image">
                      
-                  <div class="overlay overlay-image playpauze"><video class="overlay" src="https://dennissnellenberg.com/media/pages/work/tapsody/8def90efe9-1646837241/tapsody-screen-book.mp4" loop muted playsinline></video></div>                                 </div>  
-                              <div class="overlay-device-image"><div class="overlay overlay-device" style="background: url('https://dennissnellenberg.com/assets/img/device-iphone13.png') center center no-repeat; background-size: cover;"></div></div>
+                  <div class="overlay overlay-image playpauze"><video class="overlay" src="../media/pages/work/tapsody/8def90efe9-1646837241/tapsody-screen-book.mp4" loop muted playsinline></video></div>                                 </div>  
+                              <div class="overlay-device-image"><div class="overlay overlay-device" style="background: url('../assets/img/device-iphone13.png') center center no-repeat; background-size: cover;"></div></div>
                            </div>
          </div>
                         </div>
@@ -288,7 +275,7 @@
       <div class="flex-col">
          <div class="single-image">
                
-            <img class="overlay overlay-image lazy"  data-scroll data-scroll-speed="-2" src="https://dennissnellenberg.com/media/pages/work/tapsody/24a7dd319f-1646837237/tapsody-010-color-540x.jpg" data-src="https://dennissnellenberg.com/media/pages/work/tapsody/24a7dd319f-1646837237/tapsody-010-color.jpg" width="3572" height="2978" />   
+            <img class="overlay overlay-image lazy"  data-scroll data-scroll-speed="-2" src="../media/pages/work/tapsody/24a7dd319f-1646837237/tapsody-010-color-540x.jpg" data-src="../media/pages/work/tapsody/24a7dd319f-1646837237/tapsody-010-color.jpg" width="3572" height="2978" />   
                         <div class="overlay dark-overlay" style="opacity: 0;"></div>             
                      </div>
       </div>
@@ -300,7 +287,7 @@
             <div class="device">
                <div class="single-image">
                      
-                  <img class="lazy" src="https://dennissnellenberg.com/media/pages/work/tapsody/c5359eae84-1646837236/tapsody-social-instagram-540x.jpg" data-src="https://dennissnellenberg.com/media/pages/work/tapsody/c5359eae84-1646837236/tapsody-social-instagram.jpg" width="2880" height="1880"/>   
+                  <img class="lazy" src="../media/pages/work/tapsody/c5359eae84-1646837236/tapsody-social-instagram-540x.jpg" data-src="../media/pages/work/tapsody/c5359eae84-1646837236/tapsody-social-instagram.jpg" width="2880" height="1880"/>   
                                  </div>
                            </div>
          </div>
@@ -314,14 +301,14 @@
 <div class="footer-wrap footer-case-wrap theme-dark" data-scroll-section>
    <section class="section footer" data-scroll data-scroll-speed="-4" data-scroll-position="bottom">
       <div class="container medium">
-         <a href="https://dennissnellenberg.com/work/emble-studio" class="row next-case-btn">
+         <a href="work.php/emble-studio" class="row next-case-btn">
             <div class="flex-col">
                <p>Next case</p>
                <h2>Emble Studio</h2>
             </div>
             <div class="tile-image-wrap">
                <div class="tile-image">
-                                    <div class="overlay overlay-image lazy" data-scroll data-scroll-speed="2.5" data-scroll-position="bottom" style="background-color:#E49C4A; background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="https://dennissnellenberg.com/media/pages/work/emble-studio/cb063dfbe5-1646837261/thumbnail-emble-yellow.jpg"></div>                                 </div>
+                                    <div class="overlay overlay-image lazy" data-scroll data-scroll-speed="2.5" data-scroll-position="bottom" style="background-color:#E49C4A; background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="../media/pages/work/emble-studio/cb063dfbe5-1646837261/thumbnail-emble-yellow.jpg"></div>                                 </div>
             </div>
          </a>
          <div class="row">
@@ -332,7 +319,7 @@
          <div class="row">
             <div class="flex-col">
                <div class="btn btn-normal">
-                  <a href="https://dennissnellenberg.com/work" class="btn-click magnetic" data-strength="25" data-strength-text="15">
+                  <a href="work.php" class="btn-click magnetic" data-strength="25" data-strength-text="15">
                      <div class="btn-fill"></div>
                      <span class="btn-text">
                         <span class="btn-text-inner change">All work<div class="count-nr">9</div></span>
